@@ -1,4 +1,4 @@
-# Veebiprogrammeerimine sügis 2015
+# Veebiprogrammeerimine sügis 2016
 
 * **Kursuseprogramm:** [IFI6076](https://www.tlu.ee/et/informaatika/oppetoo/Kursuseprogrammid)
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
