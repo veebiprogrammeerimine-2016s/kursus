@@ -1,6 +1,6 @@
 # Veebiprogrammeerimine sügis 2016
 
-* **Kursuseprogramm:** [IFI6076](https://www.tlu.ee/et/informaatika/oppetoo/Kursuseprogrammid)
+* **Kursuseprogramm:** [IFI6076](http://www.cs.tlu.ee/instituut/oppe_tegevus/kp/kp_s_2016/)
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 * **Testserver:** greeny.cs.tlu.ee, [tunneli loomise juhend](http://minitorn.tlu.ee/~jaagup/kool/java/kursused/09/veebipr/naited/greenytunnel/greenytunnel.pdf)
 * **Tunni näited testserververis:** ~romil/if15
