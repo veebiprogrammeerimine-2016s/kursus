@@ -107,6 +107,25 @@ Need rakenduvad ka päris elus!
 1. GitHub töövoog
     * Räägime läbi GitHub'i töövoo
     * Teeme testrepositooriumid
+1. Kasutatud käsud
+```
+// kausta sisenemine
+cd kaustaNimi
+
+// kaustas väljumine
+cd ..
+
+// käskude ajalugu
+history
+
+// GIT
+git add .
+git commit -m "Sõnum muudatustest"
+git push origin master 
+
+// kui annab Forbidden error'i siis võib olla salvestuse URL vale, saab muuta nt nii
+git remote set-url origin https://romilrobtsenkov@github.com/romilrobtsenkov/kursus.git
+```
 
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
