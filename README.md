@@ -9,7 +9,7 @@
 * **GIT õpetus:** [Become a git guru.](https://www.atlassian.com/git/tutorials/)
 * **Abimaterjale:** [Veebirakenduste loomine PHP ja MySQLi abil](http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebipr/veebipr1.pdf), [PHP with MySQL Essential Training] (http://www.lynda.com/MySQL-tutorials/PHP-MySQL-Essential-Training/119003-2.html)
 * **Vajad abi?**
-   *  Loo [Issue](https://github.com/veebiprogrammeerimine-2015s/kursus/issues)
+   *  Loo [Issue](https://github.com/veebiprogrammeerimine-2016s/kursus/issues)
    * Kirjuta [email](mailto:romilr@tlu.ee) - 1:1 abi
 
 ## Kodused tööd ja projektid
@@ -53,7 +53,7 @@ ssh greeny_username@greeny.cs.tlu.ee
 
 ### GitHub'i töövoog
 
-1. *Fork*'i ülesande/projekti repositoorium (leiab [github.com/veebiprogrammeerimine-2015s](https://github.com/veebiprogrammeerimine-2015s)).
+1. *Fork*'i ülesande/projekti repositoorium (leiab [github.com/veebiprogrammeerimine-2016s](https://github.com/veebiprogrammeerimine-2016s)).
 1. *Clone*'i see repositoorium enda arvutisse/serverisse ja määra repositooriumi URL kuhu edaspidi muudatusi salvestad.
   ```
   git clone https://USERNAME@github.com/USERNAME/REPOSITORY.git
@@ -128,6 +128,17 @@ git push origin master
 git remote set-url origin https://romilrobtsenkov@github.com/romilrobtsenkov/kursus.git
 ```
 
+### 2. tund
+
+1. Alustame koodikirjutamist
+    * muutujad, loogika, tsüklid, kuupäev
+    * HTML vorm ja selle valideerimine
+1. Abimaterjal
+    * [PHP 5 Form Handling] (http://www.w3schools.com/php/php_forms.asp)
+    * ...
+    * [PHP 5 Form Complete] (http://www.w3schools.com/php/php_form_complete.asp)
+1. Kodutöö
+    * [1. kodutöö](https://github.com/veebiprogrammeerimine-2016s?utf8=%E2%9C%93&query=1.kodutoo)
 
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
