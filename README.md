@@ -145,7 +145,7 @@ git remote set-url origin https://romilrobtsenkov@github.com/romilrobtsenkov/kur
 CREATE TABLE user_sample (
     id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     email VARCHAR(255) NOT NULL,
-    password VARCHAR(128),
+    password VARCHAR(128) NOT NULL,
     created TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     UNIQUE(email)
 );
