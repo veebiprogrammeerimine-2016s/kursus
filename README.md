@@ -163,6 +163,13 @@ CREATE TABLE cars_and_colors (
   plate VARCHAR(6) NOT NULL,
   color VARCHAR(7) NOT NULL
 );
+
+
+CREATE TABLE whistle (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  age int(3) NOT NULL,
+  color varchar(7) NOT NULL
+);
 ```
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
