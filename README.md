@@ -164,10 +164,15 @@ CREATE TABLE cars_and_colors (
   color VARCHAR(7) NOT NULL
 );
 
-
 CREATE TABLE whistle (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   age int(3) NOT NULL,
+  color varchar(7) NOT NULL
+);
+
+CREATE TABLE colorNotes (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  note text NOT NULL,
   color varchar(7) NOT NULL
 );
 ```
