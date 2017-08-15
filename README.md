@@ -40,7 +40,7 @@ ssh university_username@lin2.tlu.ee -L 2222:greeny.cs.tlu.ee:22
     host: localhost or some require 127.0.0.1 (127.0.0.1 = localhost)
     port: 2222
     username: your_greeny_username
-    password: your_greeny_username
+    password: your_greeny_password
 
 6. choose one Terminal tab and connect to greeny via ssh, write:
 ssh greeny_username@greeny.cs.tlu.ee
